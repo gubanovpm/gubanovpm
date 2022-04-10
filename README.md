@@ -11,4 +11,4 @@
 
 
 ### With best regards,
-<br> Sentient Hyper-Optimized Data Access Network </br>
+Sentient Hyper-Optimized Data Access Network
