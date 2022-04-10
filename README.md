@@ -10,5 +10,5 @@
 </a>
 
 
-## With best regards,
-### Sentient Hyper-Optimized Data Access Network
+### With best regards,
+<br> Sentient Hyper-Optimized Data Access Network </br>
