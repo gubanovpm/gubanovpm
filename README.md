@@ -1,7 +1,7 @@
 ## Hi!
 
 <p align="center">
-<img src="https://i.gifer.com/72uG.gif" alt="Another funny gif"/>
+<img src="./72uG.gif" alt="Another funny gif"/>
 </p>
 
 ## ⭐ GitHub Stats
